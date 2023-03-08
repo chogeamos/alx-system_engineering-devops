@@ -1,0 +1,2 @@
+#!/bin/bash
+file --magic-file=magic.mgc input
